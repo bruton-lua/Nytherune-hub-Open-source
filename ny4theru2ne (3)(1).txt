@@ -1,7 +1,4 @@
-print("ismail. Com
-
-local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
+ocalal LocalPlayer = Players.LocalPlayer
 local TextChatService = game:GetService("TextChatService")
 
 -- Só carrega se o jogador for JustWX99s
@@ -8596,6 +8593,7 @@ UniversalTab:AddButton({
         loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source"))()
     end
 })
+
 
 
 
